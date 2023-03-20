@@ -1,38 +1,78 @@
-.App {
-  text-align: center;
+:root {
+  background-color: #FFE1EA;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navFont {
+  color: #A23F59;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.top-nav {
+  background-image: url('./assets/pink\ and\ gold\ marble.jpeg');
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.bigFont {
+  font-size: 4em;
+}
+
+.medFont {
+  font-size: 2em;
+  color: #D79695;
+}
+
+.smallFont {
+  font-size: 1rem;
+}
+
+.homeContainer {
   display: flex;
-  flex-direction: column;
+  margin-left: 7rem;
+  margin-right: 7rem;
+  padding: 2%;
+  background-color: #FFE1EA;
+  text-align: center;
+  color: #A23F59;
+
+}
+
+.meContainer {
+  text-align: left;
+  padding-left: 3rem;
+  padding-top: 2rem;
+}
+
+.avatarContainer {
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  width: 100%;
+  height: auto;
 }
 
-.App-link {
-  color: #61dafb;
+img {
+  max-width: 50%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.all-btn {
+  background-image: url('./assets/pink\ and\ gold\ marble.jpeg');
+  border: none;
+  border-radius: 21px;
+  box-shadow: 0px 1px 8px #CB7C89;
+  color: #A23F59;
+  font-family: "Raleway SemiBold", sans-serif;
+  height: 42.3px;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin: 1rem;
+  transition: 0.25s;
+  width: 153px;
+  text-decoration: none;
+}
+
+.footContainer {
+  position: fixed;
+  background-image: url('./assets/pink\ and\ gold\ marble.jpeg');
+  color: #A23F59;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }

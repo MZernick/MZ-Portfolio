@@ -3,9 +3,9 @@ import NavTabs from "./Navigation";
 
 function Header() {
     return (
-        <>
+        <div className="top-nav">
             <NavTabs />
-        </>
+        </div>
     )
 }
 
