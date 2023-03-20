@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MZ-Portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/MZ-Portfolio/static/js/main.c691496b.js",
+    "static/js/787.deeec6c3.chunk.js": "/MZ-Portfolio/static/js/787.deeec6c3.chunk.js",
+    "static/media/logo.svg": "/MZ-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MZ-Portfolio/index.html",
+    "main.073c9b0a.css.map": "/MZ-Portfolio/static/css/main.073c9b0a.css.map",
+    "main.c691496b.js.map": "/MZ-Portfolio/static/js/main.c691496b.js.map",
+    "787.deeec6c3.chunk.js.map": "/MZ-Portfolio/static/js/787.deeec6c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c691496b.js"
+  ]
+}
