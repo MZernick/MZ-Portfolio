@@ -1,10 +1,10 @@
 import React from "react";
 import NavTabs from "./Navigation";
 
-function Header() {
+function Header(props) {
     return (
         <div className="top-nav">
-            <NavTabs />
+            <NavTabs handlePageChange={props.handlePageChange} />
         </div>
     )
 }

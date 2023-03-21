@@ -1,12 +1,11 @@
 import React, { useState, useRef } from 'react';
 import Overlay from 'react-bootstrap/Overlay';
-import Footer from '../components/Footer';
 
 function Home() {
     const [show, setShow] = useState(false);
     const target = useRef(null);
     return (
-        <div className="background-img">
+        <div>
             <div className="homeContainer">
                 <div className="meContainer">
                     <h1 className='bigFont'>Magdalene Zernick</h1>

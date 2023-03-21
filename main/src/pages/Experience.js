@@ -2,7 +2,7 @@ import React from "react";
 
 function Experience() {
     return (
-        <div className="background-img">
+        <div>
             {/* <Header /> */}
             <div>
                 <h1>My Experience: </h1>
