@@ -2,8 +2,12 @@ import React from "react";
 
 function Portfolio() {
     return (
-        <div>
-            <h1>My Portfolio</h1>
+        <div className="background-img">
+            {/* <Header /> */}
+            <div>
+                <h1>My Portfolio</h1>
+                my projects
+            </div>
         </div>
     )
 }

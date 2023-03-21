@@ -1,5 +1,4 @@
 import React, { useState, useRef } from 'react';
-import Header from "../components/Header";
 import Overlay from 'react-bootstrap/Overlay';
 import Footer from '../components/Footer';
 
@@ -8,7 +7,6 @@ function Home() {
     const target = useRef(null);
     return (
         <div className="background-img">
-            <Header />
             <div className="homeContainer">
                 <div className="meContainer">
                     <h1 className='bigFont'>Magdalene Zernick</h1>
@@ -45,7 +43,6 @@ function Home() {
                 <div className='avatarContainer'>
                     <img src={require("../assets/avataaars.png")} alt="Avatar" />
                 </div>
-                <Footer />
             </div>
         </div>
     );

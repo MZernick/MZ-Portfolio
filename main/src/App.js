@@ -1,12 +1,12 @@
 import './App.css';
-import Header from './components/Header';
-import Home from './pages/Home';
+// import { BrowserRouter, Route, Link } from "react-router-dom";
+import PortfolioContainer from './pages/PortfolioContainer';
 
 function App() {
   return (
     <div className="App">
       <main>
-        <Home />
+        <PortfolioContainer />
       </main>
     </div>
   );
