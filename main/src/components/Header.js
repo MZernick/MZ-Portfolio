@@ -1,10 +1,10 @@
 import React from "react";
-import NavTabs from "./Navigation";
+import Navbar from 'react-bootstrap/Navbar';
 
-function Header(props) {
+function Header() {
     return (
-        <div className="top-nav">
-            <NavTabs handlePageChange={props.handlePageChange} />
+        <div >
+            <Navbar.Brand> <h1 className='navFont'>M Z </h1></Navbar.Brand>
         </div>
     )
 }
