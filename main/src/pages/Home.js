@@ -40,7 +40,7 @@ function Home() {
                     </Overlay>
                 </div>
                 <div className='avatarContainer'>
-                    <img src={require("../assets/avataaars.png")} alt="Avatar" />
+                    <img className='avatar' src={require("../assets/avataaars.png")} alt="Avatar" />
                 </div>
             </div>
         </div>
