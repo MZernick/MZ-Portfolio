@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/UTA-MZ-Portfolio/static/css/main.6de8fea7.css",
-    "main.js": "/UTA-MZ-Portfolio/static/js/main.f65c2128.js",
+    "main.js": "/UTA-MZ-Portfolio/static/js/main.ba7ce667.js",
     "static/js/787.deeec6c3.chunk.js": "/UTA-MZ-Portfolio/static/js/787.deeec6c3.chunk.js",
     "static/media/TechBlog.png": "/UTA-MZ-Portfolio/static/media/TechBlog.a242f672c359c2b5f899.png",
     "static/media/ProPairs.png": "/UTA-MZ-Portfolio/static/media/ProPairs.f279ef1aa75c53b5230c.png",
     "static/media/TriviaTracker.png": "/UTA-MZ-Portfolio/static/media/TriviaTracker.176e2c7081ed43836943.png",
     "static/media/React-logo.png": "/UTA-MZ-Portfolio/static/media/React-logo.81ed438b18e24116794d.png",
     "static/media/DrinkoftheDay.png": "/UTA-MZ-Portfolio/static/media/DrinkoftheDay.9bfef4e4236011b603b8.png",
-    "static/media/Resume.pdf": "/UTA-MZ-Portfolio/static/media/Resume.77992dae94da02e0767d.pdf",
     "static/media/WeatherAPI.png": "/UTA-MZ-Portfolio/static/media/WeatherAPI.13ca8c5c268af9e0a242.png",
+    "static/media/Resume.pdf": "/UTA-MZ-Portfolio/static/media/Resume.4521bdf4ff7148b32c40.pdf",
     "static/media/graphQL-logo.png": "/UTA-MZ-Portfolio/static/media/graphQL-logo.fc6b9451733c620ceb86.png",
     "static/media/LOTRQuiz.png": "/UTA-MZ-Portfolio/static/media/LOTRQuiz.09ad6a3299e588121984.png",
     "static/media/mongodb-logo.png": "/UTA-MZ-Portfolio/static/media/mongodb-logo.3a364684503a40b5fbb2.png",
@@ -22,11 +22,11 @@
     "static/media/JavaScript-logo.png": "/UTA-MZ-Portfolio/static/media/JavaScript-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/UTA-MZ-Portfolio/index.html",
     "main.6de8fea7.css.map": "/UTA-MZ-Portfolio/static/css/main.6de8fea7.css.map",
-    "main.f65c2128.js.map": "/UTA-MZ-Portfolio/static/js/main.f65c2128.js.map",
+    "main.ba7ce667.js.map": "/UTA-MZ-Portfolio/static/js/main.ba7ce667.js.map",
     "787.deeec6c3.chunk.js.map": "/UTA-MZ-Portfolio/static/js/787.deeec6c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6de8fea7.css",
-    "static/js/main.f65c2128.js"
+    "static/js/main.ba7ce667.js"
   ]
 }
