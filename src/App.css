@@ -39,25 +39,19 @@
 
 .homeContainer {
   display: flex;
-  margin-left: 7rem;
-  margin-right: 7rem;
-  padding: 2%;
+  padding: 5%;
   background-color: #FFE1EA;
   text-align: center;
   color: #A23F59;
+  align-items: center;
+  justify-content: center;
 }
 
 .meContainer {
   text-align: left;
-  padding-left: 3rem;
-  padding-top: 2rem;
 }
 
-.avatarContainer {
-  align-items: center;
-  width: 100%;
-  height: auto;
-}
+.avatarContainer {}
 
 .avatar {
   max-width: 50%;
