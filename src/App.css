@@ -39,6 +39,7 @@
 
 .homeContainer {
   display: flex;
+  flex-wrap: wrap;
   padding: 5%;
   background-color: #FFE1EA;
   text-align: center;
