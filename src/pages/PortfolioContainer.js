@@ -7,7 +7,7 @@ import Footer from '../components/Footer';
 import NavTabs from '../components/Navigation';
 
 export default function PortfolioContainer() {
-    const [currentPage, setCurrentPage] = useState('');
+    const [currentPage, setCurrentPage] = useState('Home');
     console.log(currentPage);
 
     const renderPage = () => {
