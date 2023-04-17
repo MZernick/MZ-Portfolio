@@ -38,7 +38,7 @@ function Portfolio() {
                 <div className="projectBox pinkShadow">
                     <img className="projectLogo" src={require("../assets/LOTRQuiz.png")} alt="LOTR Quiz" />
                     <div className="buttons"><h4 className="portfolioFont">LOTR Quiz</h4>
-                        <button className="gitBtn"><a className="urlBtn" href="https://mzernick.github.io/UTA-Bootcamp-QuizChallenge/">URL</a></button>
+                        <button className="gitBtn"><a className="urlBtn" href="https://mzernick.github.io/QuizChallenge/">URL</a></button>
                         <button className="gitBtn"><a className="urlBtn" href="https://github.com/MZernick/UTA-Bootcamp-QuizChallenge"><img className="gitLogo" src={require("../assets/GitHub-Logo.png")} alt="GitHub Logo" /></a></button>
                     </div>
                 </div>
