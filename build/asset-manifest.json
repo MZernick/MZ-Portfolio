@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UTA-MZ-Portfolio/static/css/main.85889fae.css",
-    "main.js": "/UTA-MZ-Portfolio/static/js/main.66030796.js",
+    "main.js": "/UTA-MZ-Portfolio/static/js/main.8dd0b87b.js",
     "static/js/787.deeec6c3.chunk.js": "/UTA-MZ-Portfolio/static/js/787.deeec6c3.chunk.js",
     "static/media/TechBlog.png": "/UTA-MZ-Portfolio/static/media/TechBlog.a242f672c359c2b5f899.png",
     "static/media/ProPairs.png": "/UTA-MZ-Portfolio/static/media/ProPairs.f279ef1aa75c53b5230c.png",
@@ -22,11 +22,11 @@
     "static/media/JavaScript-logo.png": "/UTA-MZ-Portfolio/static/media/JavaScript-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/UTA-MZ-Portfolio/index.html",
     "main.85889fae.css.map": "/UTA-MZ-Portfolio/static/css/main.85889fae.css.map",
-    "main.66030796.js.map": "/UTA-MZ-Portfolio/static/js/main.66030796.js.map",
+    "main.8dd0b87b.js.map": "/UTA-MZ-Portfolio/static/js/main.8dd0b87b.js.map",
     "787.deeec6c3.chunk.js.map": "/UTA-MZ-Portfolio/static/js/787.deeec6c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85889fae.css",
-    "static/js/main.66030796.js"
+    "static/js/main.8dd0b87b.js"
   ]
 }
